@@ -1,0 +1,9 @@
+/*
+ *	Version 2.1
+ *		Updated for Elgg 2.0
+ *		Fixed bugs
+ *		Code cleanup
+ *
+ *	Version 1.0
+ *		Initial release
+ */
